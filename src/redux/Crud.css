@@ -1,0 +1,62 @@
+form {
+  background-color: #f8f9fa;
+  border: 1px solid black;
+}
+label {
+  margin: 0 10px;
+}
+.input-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+select {
+  margin-right: 26px;
+  margin-left: 4px;
+  width: 256px;
+  height: 30px;
+}
+input[type="button"] {
+  text-align: left;
+  margin: 0 20px;
+}
+input[type="text"] {
+  width: 256px;
+  height: 30px;
+  margin: 10px;
+  padding: 4px;
+}
+input[type="email"] {
+  width: 256px;
+  height: 30px;
+  margin: 10px;
+  padding: 4px;
+}
+select {
+  border: #b0bac4;
+  background-color: #ffffff;
+  width: 256px;
+  height: 30px;
+}
+.button-control {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.bg-card {
+  margin: auto;
+}
+.bg-card ul {
+  background-color: #138796;
+  height: auto;
+  width: 400px;
+  list-style-type: none;
+}
+.edit-btn {
+  padding: 7px;
+  border-radius: 2px;
+  border: none;
+  background: #333;
+  color: white;
+  font-weight: lighter;
+}
